@@ -1,0 +1,37 @@
+body > header >h1 {
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(36, 138, 241);
+    color: white;
+}
+body > header >ul {
+    margin: 0;
+    padding: 20px;
+    color: black;
+    list-style: none;
+}
+#Nav {
+    background-color: rgb(36, 138, 241);
+}
+article {
+    text-align: start;
+    padding: 50px;
+    
+
+}
+
+footer {
+    background-color: rgb(36, 138, 241);
+    color: white;
+    text-align: center;
+    padding: 16px;
+}
+
+#Comments {
+    width: 98%;
+    height: 100px;
+    margin: 2px;
+}
+#Submit-comment {
+    text-align: end;
+}
